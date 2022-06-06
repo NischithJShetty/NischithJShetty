@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Dr. Nischith J Shetty (@NischithJShetty on GitHub)
 - 👀 I’m a Physician/ Software developer working in the domain of Medical Informatics
+- 📫 My full profile can be found at: https://www.linkedin.com/in/njshetty
 - 📫 I could be reached at: drnjshetty@gmail.com
 
 <!---
